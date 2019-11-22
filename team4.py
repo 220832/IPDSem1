@@ -6,7 +6,7 @@
 #     move: A function that returns 'c' or 'b'
 ####
 
-team_name = '4_Jah' # Only 10 chars displayed.
+team_name = '4 Jah' # Only 10 chars displayed.
 strategy_name = 'The better one'
 strategy_description = '''
 If the other player is constantly picking C pick B If the player only picks
