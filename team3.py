@@ -6,7 +6,7 @@
 #     move: A function that returns 'c' or 'b'
 ####
 
-team_name = 'Team19'
+team_name = 'Grant'
 strategy_name = 'An Eye For An Eye'
 strategy_description = '''\
 Collude first round. Collude, unless betrayed; then always betray untill I get trust back.'''
